@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Biking &amp; Heritage B&amp;H</string>
+    <string name="base_url" translatable="false">http://www.bhtours.info</string>
+
+    <string name="title_activity_image_preview">Image preview</string>
+    <string name="title_section1">Details</string>
+    <string name="title_section2">Map</string>
+    <string name="title_section3">Gallery</string>
+    <string name="progressDialogMsg">Please wait</string>
+    <string name="imageHolder">picture</string>
+    <string name="imge_preview_image_number" formatted="false">Image %1$d/%2$d</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_locations">Locations</string>
+    <string name="nav_item_about">About</string>
+    <string name="nav_item_map">Map</string>
+    <string name="nav_item_gallery">Gallery</string>
+    <string name="nav_item_news">News</string>
+    <string name="nav_item_social">Social</string>
+    <string name="nav_item_contact">Contact</string>
+    <string name="nav_item_aboutapp">About App</string>
+    <string name="nav_item_langba"></string>
+    <string name="nav_item_languk"></string>
+
+    <!-- navigation drawer item icons  -->
+    <string-array name="nav_drawer_icons">
+        <item>ico_action_0</item>
+        <item>ico_action_1</item>
+        <item>ico_action_2</item>
+        <item>ico_action_3</item>
+        <item>ico_action_4</item>
+        <item>ico_action_5</item>
+        <item>ico_action_6</item>
+        <item>ico_action_7</item>
+        <item>ico_action_8</item>
+        <item>ic_lang_ba</item>
+        <item>ic_lang_uk</item>
+    </string-array>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_about</item>
+        <item>@string/nav_item_news</item>
+        <item>@string/nav_item_locations</item>
+        <item>@string/nav_item_map</item>
+        <item>@string/nav_item_gallery</item>
+        <item>@string/nav_item_social</item>
+        <item>@string/nav_item_contact</item>
+        <item>@string/nav_item_aboutapp</item>
+        <item>@string/nav_item_langba</item>
+        <item>@string/nav_item_languk</item>
+    </string-array>
+
+    <string name="title_about">About</string>
+    <string name="title_locations">Locations</string>
+    <string name="title_home">Home</string>
+    <string name="title_map">Map</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_news">News</string>
+    <string name="title_social">Social</string>
+    <string name="title_contact">Contact</string>
+    <string name="title_aboutapp">About App</string>
+
+    <string name="contactFormL1">Name</string>
+    <string name="contactFormL2">Email</string>
+    <string name="contactFormL3">Message</string>
+    <string name="contactFormHint1"></string>
+    <string name="contactFormHint2"></string>
+    <string name="contactFormHint3"></string>
+    <string name="contactFormButtonText">Send</string>
+
+    <string name="mailSubject">Message from Android App</string>
+    <string name="mailSendSuccess">Your message was sent successfully.</string>
+    <string name="mailSendFail">Your message was not sent successfully.</string>
+
+    <string name="mapTypeMenuLabel">Map type</string>
+    <string name="mapTypeVector">Vector</string>
+    <string name="mapTypeHybrid">Satellite</string>
+    <string name="mapTypeRelief">Relief</string>
+    <string name="title_activity_location_details">Location details</string>
+</resources>

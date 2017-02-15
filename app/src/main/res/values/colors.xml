@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#336699</color>
+    <color name="colorPrimaryDark">#22486e</color>
+    <color name="colorMenuPrimary">#336699</color>
+    <color name="colorMenuDarkest">#011A33</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#336699</color>
+    <color name="colorAccent">#4c8ecf</color>
+    <color name="gradientStartBack1">#6000</color>
+    <color name="gradientEndBack1">#8888</color>
+    <color name="gradientDrawerStartBack">#88336699</color>
+    <color name="gradientDrawerEndBack">#885588BB</color>
+    <color name="gradientDrawerOverlayStart">#1C3854</color>
+    <color name="gradientDrawerOverlayEnd">#84B2E0</color>
+</resources>

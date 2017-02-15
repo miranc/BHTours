@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <!--<item
+        android:id="@+id/action_search"
+        android:title="@string/action_search"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_search"
+        app:showAsAction="never" />-->
+
+    <group
+        android:id="@+id/main_menu_group"
+        android:visible="false">
+    <item
+        android:id="@+id/action_map_type"
+        android:title="@string/mapTypeMenuLabel"
+        android:icon="@drawable/ic_layers_white_48dp"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/mapVector"
+                android:title="@string/mapTypeVector" />
+            <item
+                android:id="@+id/mapHybrid"
+                android:title="@string/mapTypeHybrid" />
+            <item
+                android:id="@+id/mapRelief"
+                android:title="@string/mapTypeRelief" />
+        </menu>
+        </item>
+    </group>
+</menu>

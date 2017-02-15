@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biking &amp; Heritage B&amp;H</string>
+
+    <string name="title_activity_image_preview">Prikaz slike</string>
+    <string name="title_activity_location_details">Location details</string>
+    <string name="title_section1">Detalji</string>
+    <string name="title_section2">Mapa</string>
+    <string name="title_section3">Galerija</string>
+    <string name="progressDialogMsg">Molim pričekajte</string>
+    <string name="imageHolder">slika</string>
+    <string name="imge_preview_image_number" formatted="false">Slika %1$d/%2$d</string>
+
+    <string name="drawer_open">Otvoren</string>
+    <string name="drawer_close">Zatvoren</string>
+
+    <string name="nav_item_home">Početna</string>
+    <string name="nav_item_locations">Lokacije</string>
+    <string name="nav_item_about">O projektu</string>
+    <string name="nav_item_map">Karta</string>
+    <string name="nav_item_gallery">Galerija</string>
+    <string name="nav_item_news">Vijesti</string>
+    <string name="nav_item_social">Social</string>
+    <string name="nav_item_contact">Kontakt</string>
+    <string name="nav_item_aboutapp">O aplikaciji</string>
+    <string name="nav_item_langba"></string>
+    <string name="nav_item_languk"></string>
+
+    <!-- navigation drawer item icons
+    <string-array name="nav_drawer_icons">
+        <item>ic_home_white_48dp</item>
+        <item>ic_info_outline_white_48dp</item>
+        <item>ic_view_stream_white_48dp</item>
+        <item>ic_directions_bike_white_48dp</item>
+        <item>ic_map_white_48dp</item>
+        <item>ic_collections_white_48dp</item>
+        <item>ic_group_work_white_48dp</item>
+        <item>ic_question_answer_white_48dp</item>
+        <item>ic_android_white_48dp</item>
+        <item>ic_lang_ba</item>
+        <item>ic_lang_uk</item>
+    </string-array>-->
+
+    <!----><string-array name="nav_drawer_icons">
+    <item>ico_action_0</item>
+    <item>ico_action_1</item>
+    <item>ico_action_2</item>
+    <item>ico_action_3</item>
+    <item>ico_action_4</item>
+    <item>ico_action_5</item>
+    <item>ico_action_6</item>
+    <item>ico_action_7</item>
+    <item>ico_action_8</item>
+    <item>ic_lang_ba</item>
+    <item>ic_lang_uk</item>
+</string-array>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_about</item>
+        <item>@string/nav_item_news</item>
+        <item>@string/nav_item_locations</item>
+        <item>@string/nav_item_map</item>
+        <item>@string/nav_item_gallery</item>
+        <item>@string/nav_item_social</item>
+        <item>@string/nav_item_contact</item>
+        <item>@string/nav_item_aboutapp</item>
+        <item>@string/nav_item_langba</item>
+        <item>@string/nav_item_languk</item>
+    </string-array>
+
+    <string name="title_about">O projektu</string>
+    <string name="title_locations">Lokacije</string>
+    <string name="title_home">Početna</string>
+    <string name="title_map">Karta</string>
+    <string name="title_gallery">Galerija</string>
+    <string name="title_news">Vijesti</string>
+    <string name="title_social">Socijalne mreže</string>
+    <string name="title_contact">Kontakt</string>
+    <string name="title_aboutapp">O aplikaciji</string>
+
+    <string name="contactFormL1">Ime</string>
+    <string name="contactFormL2">Email adresa</string>
+    <string name="contactFormL3">Poruka</string>
+    <string name="contactFormHint1"></string>
+    <string name="contactFormHint2"></string>
+    <string name="contactFormHint3"></string>
+    <string name="contactFormButtonText">Pošalji poruku</string>
+
+    <string name="mailSubject">Poruka iz Android aplikacije</string>
+    <string name="mailSendSuccess">Poruka uspješno poslana.</string>
+    <string name="mailSendFail">Poruka nije uspješno poslana. Molim probajte ponovo.</string>
+
+    <string name="mapTypeMenuLabel">Tip karte</string>
+    <string name="mapTypeVector">Standardna karta</string>
+    <string name="mapTypeHybrid">Satelitski snimak</string>
+    <string name="mapTypeRelief">Reljefni prikaz</string>
+</resources>
